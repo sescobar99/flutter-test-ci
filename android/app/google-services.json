@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "728806266597",
+    "project_id": "flutter-test-ci-cd",
+    "storage_bucket": "flutter-test-ci-cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728806266597:android:3780756e5645cadc50260c",
+        "android_client_info": {
+          "package_name": "com.example.testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728806266597-48egth0rjvb8nu7jokndm81d2ajudnh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIN-kTlhgS6X_qL2T9zJa_6co1E9d0TSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728806266597-48egth0rjvb8nu7jokndm81d2ajudnh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
